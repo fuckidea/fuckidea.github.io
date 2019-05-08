@@ -7,7 +7,7 @@ layout: default
 
 
 
-## 方式一：购买学生授权15一年（推荐）
+## 方式一：购买学生授权18.88一年（推荐）
 
    联系邮箱 `mrchang@jetbrains.org.cn`
   
