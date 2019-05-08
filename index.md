@@ -2,18 +2,17 @@
 layout: default
 ---
 
+## 方式一：购买学生授权15一年
 
-## 方式一：通过 license server（不推荐,经常失效）
+   联系邮箱 `mrchang@jetbrains.org.cn`
+  
+## 方式二：自己搭建授权服务器
 
- 1. 百度搜素：idea 2019 license server
- 2. 搜索到类似：http://idea.congm.in，输入到 license server address中，激活成功。
- 
-    (注意：目前可用的(http://idea.toocruel.net, http://active.chinapyg.com, )
- 
-    ![](https://raw.githubusercontent.com/changdaye/my-images/master/20190508143311.png)
+    `docker pull ilanyu/golang-reverseproxy`
     
+    `docker run -d -p 8888:8888 ilanyu/golang-reverseproxy` 
     
-## 方式二：使用lanyus大神的注册码（推荐）
+## 方式三：使用lanyus大神的注册码（推荐）
 
 1. 打开路径C:\Windows\System32\drivers\etc，
    修改host文件，在末尾追加域名 0.0.0.0 account.jetbrains.com 及 0.0.0.0 www.jetbrains.com
@@ -26,16 +25,17 @@ layout: default
 
    ![](https://raw.githubusercontent.com/changdaye/my-images/master/20190508143604.png)
 
-## 方式三：自己搭建授权服务器
 
-    `docker pull ilanyu/golang-reverseproxy`
+## 方式四：通过 license server（不推荐,经常失效）
+
+ 1. 百度搜素：idea 2019 license server
+ 2. 搜索到类似：http://idea.congm.in，输入到 license server address中，激活成功。
+ 
+    (注意：目前可用的(http://idea.toocruel.net, http://active.chinapyg.com, )
+ 
+    ![](https://raw.githubusercontent.com/changdaye/my-images/master/20190508143311.png)
     
-    `docker run -d -p 8888:8888 ilanyu/golang-reverseproxy`
 
-
-## 方式四：购买学生授权15一年
-
-   联系邮箱 `mrchang@jetbrains.org.cn`
 
 ## 方式五：官网购买正版
 
