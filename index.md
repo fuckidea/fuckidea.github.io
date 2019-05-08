@@ -2,10 +2,6 @@
 layout: default
 ---
 
-IntelliJ IDEA,IDEA 注册码,IDEA 注册机,ReSharper 注册码,ReSharper Cpp 注册码,
-dotTrace 注册码,dotMemory 注册码,dotCover 注册码,RubyMine 注册码,PyCharm 注册码,
-WebStorm 注册码,PhpStorm 注册码,AppCode 注册码,CLion 注册码
-
 
 ## 方式一：通过 license server（不推荐,经常失效）
 
