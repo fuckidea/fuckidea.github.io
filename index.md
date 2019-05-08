@@ -7,7 +7,7 @@ layout: default
 
 
 
-## 方式一：购买学生授权15一年
+## 方式一：购买学生授权15一年（推荐）
 
    联系邮箱 `mrchang@jetbrains.org.cn`
   
@@ -17,7 +17,7 @@ layout: default
     
     `docker run -d -p 8888:8888 ilanyu/golang-reverseproxy` 
     
-## 方式三：使用lanyus大神的注册码（推荐）
+## 方式三：使用lanyus大神的注册码
 
 1. 打开路径C:\Windows\System32\drivers\etc，
    修改host文件，在末尾追加域名 0.0.0.0 account.jetbrains.com 及 0.0.0.0 www.jetbrains.com
