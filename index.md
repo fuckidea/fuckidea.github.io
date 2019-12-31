@@ -11,13 +11,13 @@ layout: default
 
    联系邮箱 `mrchang@jetbrains.org.cn`
   
-## 方式二：自己搭建授权服务器
+## 方式二：自己搭建授权服务器（已失效）
 
     `docker pull ilanyu/golang-reverseproxy`
     
     `docker run -d -p 8888:8888 ilanyu/golang-reverseproxy` 
     
-## 方式三：使用注册码
+## 方式三：使用注册码（已失效）
 
 1. 打开路径C:\Windows\System32\drivers\etc，
    修改host文件，在末尾追加域名 
@@ -33,7 +33,7 @@ layout: default
    ![](https://raw.githubusercontent.com/changdaye/my-images/master/20190508143604.png)
 
 
-## 方式四：通过 license server（不推荐,经常失效）
+## 方式四：通过 license server（不推荐,经常失效）（已失效）
 
  1. 百度搜素：idea 2019 license server
  2. 搜索到类似：http://idea.congm.in，输入到 license server address中，激活成功。
