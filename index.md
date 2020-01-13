@@ -7,9 +7,7 @@ layout: default
 
 
 
-## 方式一：购买学生授权（推荐）
 
-   联系邮箱 `mrchang@jetbrains.org.cn`
   
 ## 方式二：自己搭建授权服务器（已失效）
 
